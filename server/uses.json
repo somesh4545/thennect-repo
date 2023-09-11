@@ -1,0 +1,304 @@
+[
+  {
+    "firstName": "Somesh",
+    "lastName": "Somani",
+    "password": "somesh",
+    "emailID": "someshsomani457@gmail.com",
+    "phoneNo": "8080259833",
+    "userType": {
+      "type": "Mentee",
+      "fields": ["Option trading", "Software development"],
+      "experience": null
+    },
+    "interests": ["Option trading", "Software development"],
+    "currentOperations": {
+      "profession": "Education",
+      "post": "Computer",
+      "domain": "BDS",
+      "institution": "Gpp"
+    },
+    "bgColor": "#20F28D",
+    "vStatus": true,
+    "education": [
+      {
+        "school": "MRDA",
+        "degree": "School",
+        "fieldOfStudy": "All",
+        "startYear": "2015",
+        "endYear": "2019",
+        "grade": "92",
+        "bgColor": "#F65505"
+      },
+      {
+        "school": "GPP",
+        "degree": "Diploma",
+        "fieldOfStudy": "Computer engineering",
+        "startYear": "2019",
+        "endYear": "2022",
+        "grade": "95.4",
+        "bgColor": "#53ED55"
+      }
+    ],
+    "__v": 0,
+    "description": "I am a cloud engineer working on Python and AWS. I have completed Java and Python courses and also Machine Learning. I also work on some personal projects using AWS cloud native technologies and python. I am looking forward to becoming a productive full stack developer making my way towards entrepreneurship.",
+    "oneLiner": "I am not perfect but I am limited edition.",
+    "img_url": "https://firebasestorage.googleapis.com/v0/b/thennect-86377.appspot.com/o/631385c36928bd46e6756796_profile_pic?alt=media&token=bc103972-5629-4605-8e78-6089998e0f29"
+  },
+  {
+    "firstName": "Tanmay",
+    "lastName": "Samdhani",
+    "password": "Tanmay",
+    "emailID": "Tanmay@gmail.com",
+    "phoneNo": "8080259833",
+    "userType": {
+      "type": "Mentor",
+      "fields": [
+        "Option trading",
+        "Software development",
+        "Artifical intelligence"
+      ],
+      "experience": null
+    },
+    "interests": [
+      "Option trading",
+      "Software development",
+      "Artifical intelligence"
+    ],
+    "currentOperations": {
+      "profession": "Education",
+      "post": "Computer",
+      "domain": "BDS",
+      "institution": "Gpp"
+    },
+    "bgColor": "#20F28D",
+    "vStatus": true,
+    "education": [
+      {
+        "school": "MRDA",
+        "degree": "School",
+        "fieldOfStudy": "All",
+        "startYear": "2015",
+        "endYear": "2019",
+        "grade": "92",
+        "bgColor": "#F65505"
+      },
+      {
+        "school": "GPP",
+        "degree": "Diploma",
+        "fieldOfStudy": "Computer engineering",
+        "startYear": "2019",
+        "endYear": "2022",
+        "grade": "95.4",
+        "bgColor": "#53ED55"
+      }
+    ],
+    "__v": 0,
+    "description": "I am a cloud engineer working on Python and AWS. I have completed Java and Python courses and also Machine Learning. I also work on some personal projects using AWS cloud native technologies and python. I am looking forward to becoming a productive full stack developer making my way towards entrepreneurship.",
+    "oneLiner": "I am not perfect but I am limited edition.",
+    "img_url": "https://firebasestorage.googleapis.com/v0/b/thennect-86377.appspot.com/o/631385c36928bd46e6756796_profile_pic?alt=media&token=bc103972-5629-4605-8e78-6089998e0f29"
+  },
+  {
+    "firstName": "Vaibhav",
+    "lastName": "Jaju",
+    "password": "xyz",
+    "emailID": "Vaibhav@gmail.com",
+    "phoneNo": "8080259833",
+    "userType": {
+      "type": "Mentor",
+      "fields": ["Artifical intelligence", "Real estate"],
+      "experience": null
+    },
+    "interests": ["Artifical intelligence", "Real estate"],
+    "currentOperations": {
+      "profession": "Education",
+      "post": "Computer",
+      "domain": "BDS",
+      "institution": "Gpp"
+    },
+    "bgColor": "#20F28D",
+    "vStatus": true,
+    "education": [
+      {
+        "school": "MRDA",
+        "degree": "School",
+        "fieldOfStudy": "All",
+        "startYear": "2015",
+        "endYear": "2019",
+        "grade": "92",
+        "bgColor": "#F65505"
+      },
+      {
+        "school": "GPP",
+        "degree": "Diploma",
+        "fieldOfStudy": "Computer engineering",
+        "startYear": "2019",
+        "endYear": "2022",
+        "grade": "95.4",
+        "bgColor": "#53ED55"
+      }
+    ],
+    "__v": 0,
+    "description": "I am a cloud engineer working on Python and AWS. I have completed Java and Python courses and also Machine Learning. I also work on some personal projects using AWS cloud native technologies and python. I am looking forward to becoming a productive full stack developer making my way towards entrepreneurship.",
+    "oneLiner": "I am not perfect but I am limited edition.",
+    "img_url": "https://firebasestorage.googleapis.com/v0/b/thennect-86377.appspot.com/o/631385c36928bd46e6756796_profile_pic?alt=media&token=bc103972-5629-4605-8e78-6089998e0f29"
+  },
+  {
+    "firstName": "Lakhan",
+    "lastName": "Tela",
+    "password": "xyz",
+    "emailID": "lakhan@gmail.com",
+    "phoneNo": "8080259833",
+    "userType": {
+      "type": "Mentor",
+      "fields": ["Real estate", "Stock market"],
+      "experience": null
+    },
+    "interests": ["Real estate", "Stock market"],
+    "currentOperations": {
+      "profession": "Education",
+      "post": "Computer",
+      "domain": "BDS",
+      "institution": "Gpp"
+    },
+    "bgColor": "#20F28D",
+    "vStatus": true,
+    "education": [
+      {
+        "school": "MRDA",
+        "degree": "School",
+        "fieldOfStudy": "All",
+        "startYear": "2015",
+        "endYear": "2019",
+        "grade": "92",
+        "bgColor": "#F65505"
+      },
+      {
+        "school": "GPP",
+        "degree": "Diploma",
+        "fieldOfStudy": "Computer engineering",
+        "startYear": "2019",
+        "endYear": "2022",
+        "grade": "95.4",
+        "bgColor": "#53ED55"
+      }
+    ],
+    "__v": 0,
+    "description": "I am a cloud engineer working on Python and AWS. I have completed Java and Python courses and also Machine Learning. I also work on some personal projects using AWS cloud native technologies and python. I am looking forward to becoming a productive full stack developer making my way towards entrepreneurship.",
+    "oneLiner": "I am not perfect but I am limited edition.",
+    "img_url": "https://firebasestorage.googleapis.com/v0/b/thennect-86377.appspot.com/o/631385c36928bd46e6756796_profile_pic?alt=media&token=bc103972-5629-4605-8e78-6089998e0f29"
+  },
+  {
+    "firstName": "Rudresh",
+    "lastName": "Holani",
+    "password": "xyz",
+    "emailID": "Rudresh@gmail.com",
+    "phoneNo": "8080259833",
+    "userType": {
+      "type": "Mentor",
+      "fields": [
+        "Real estate",
+        "Stock market",
+        "entrepreneurship",
+        "Machine learning",
+        "Software development"
+      ],
+      "experience": null
+    },
+    "interests": [
+      "Real estate",
+      "Stock market",
+      "entrepreneurship",
+      "Machine learning",
+      "Software development"
+    ],
+    "currentOperations": {
+      "profession": "Education",
+      "post": "Computer",
+      "domain": "BDS",
+      "institution": "Gpp"
+    },
+    "bgColor": "#20F28D",
+    "vStatus": true,
+    "education": [
+      {
+        "school": "MRDA",
+        "degree": "School",
+        "fieldOfStudy": "All",
+        "startYear": "2015",
+        "endYear": "2019",
+        "grade": "92",
+        "bgColor": "#F65505"
+      },
+      {
+        "school": "GPP",
+        "degree": "Diploma",
+        "fieldOfStudy": "Computer engineering",
+        "startYear": "2019",
+        "endYear": "2022",
+        "grade": "95.4",
+        "bgColor": "#53ED55"
+      }
+    ],
+    "__v": 0,
+    "description": "I am a cloud engineer working on Python and AWS. I have completed Java and Python courses and also Machine Learning. I also work on some personal projects using AWS cloud native technologies and python. I am looking forward to becoming a productive full stack developer making my way towards entrepreneurship.",
+    "oneLiner": "I am not perfect but I am limited edition.",
+    "img_url": "https://firebasestorage.googleapis.com/v0/b/thennect-86377.appspot.com/o/631385c36928bd46e6756796_profile_pic?alt=media&token=bc103972-5629-4605-8e78-6089998e0f29"
+  },
+  {
+    "firstName": "Pratik",
+    "lastName": "Mandora",
+    "password": "xyz",
+    "emailID": "Pratik@gmail.com",
+    "phoneNo": "8080259833",
+    "userType": {
+      "type": "Mentor",
+      "fields": [
+        "Real estate",
+        "Stock market",
+        "entrepreneurship",
+        "Machine learning",
+        "Software development"
+      ],
+      "experience": null
+    },
+    "interests": [
+      "Real estate",
+      "Stock market",
+      "entrepreneurship",
+      "Machine learning",
+      "Software development"
+    ],
+    "currentOperations": {
+      "profession": "Education",
+      "post": "Computer",
+      "domain": "BDS",
+      "institution": "Gpp"
+    },
+    "bgColor": "#20F28D",
+    "vStatus": true,
+    "education": [
+      {
+        "school": "MRDA",
+        "degree": "School",
+        "fieldOfStudy": "All",
+        "startYear": "2015",
+        "endYear": "2019",
+        "grade": "92",
+        "bgColor": "#F65505"
+      },
+      {
+        "school": "GPP",
+        "degree": "Diploma",
+        "fieldOfStudy": "Computer engineering",
+        "startYear": "2019",
+        "endYear": "2022",
+        "grade": "95.4",
+        "bgColor": "#53ED55"
+      }
+    ],
+    "__v": 0,
+    "description": "I am a cloud engineer working on Python and AWS. I have completed Java and Python courses and also Machine Learning. I also work on some personal projects using AWS cloud native technologies and python. I am looking forward to becoming a productive full stack developer making my way towards entrepreneurship.",
+    "oneLiner": "I am not perfect but I am limited edition.",
+    "img_url": "https://firebasestorage.googleapis.com/v0/b/thennect-86377.appspot.com/o/631385c36928bd46e6756796_profile_pic?alt=media&token=bc103972-5629-4605-8e78-6089998e0f29"
+  }
+]

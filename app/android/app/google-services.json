@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "568044792267",
+    "project_id": "thennect-86377",
+    "storage_bucket": "thennect-86377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568044792267:android:c708166251b1407745ae4e",
+        "android_client_info": {
+          "package_name": "com.thennect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568044792267-r1o910v4jarhq2m9f9vi7q8i64ak2mth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thennect",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "568044792267-k9uualldkecbkpgnbc03rsiuoeh8fvk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6e5JesNxJt_8qYUTsk8rMVmfnXV-Bguk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568044792267-k9uualldkecbkpgnbc03rsiuoeh8fvk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

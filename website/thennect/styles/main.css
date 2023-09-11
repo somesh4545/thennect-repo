@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+
+.gradient {
+  /* Gradient */
+  background: linear-gradient(270deg, #be2edd 0%, #4834d4 100%);
+}
+
+.gradient-text {
+  background: linear-gradient(270deg, #be2edd 0%, #4834d4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.header {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "DM Sans";
+}
+
+.fontBold {
+  font-family: "DM Sans";
+  font-weight: 600;
+}
+
+.fontRegular {
+  font-family: "DM Sans";
+}
+
+.primaryColor {
+  color: #4834d4;
+}
+
+.secondaryColor {
+  color: #be2edd;
+}
